@@ -6,7 +6,7 @@
 <h1 align="center">SpandView Expense Tracke</h1>
 
 <p align="center">
-  <strong>Discover and download stunning wallpapers with ease.</strong>
+  <strong>Effortlessly track your daily expenses with a simple and intuitive Flutter app</strong>
 </p>
 
 ## Overview
