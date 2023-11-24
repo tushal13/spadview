@@ -1,7 +1,13 @@
+<p align="center">
+  <img src="https://github.com/tushal13/spadview/assets/113960162/de2f24e2-1216-4743-9f8d-cb572716f81e" alt="SpandView Logo" />
+</p>
 
-# SpendView Flutter App
 
-![App Screenshot](path/to/screenshot.png)
+<h1 align="center">SpandView Expense Tracke</h1>
+
+<p align="center">
+  <strong>Discover and download stunning wallpapers with ease.</strong>
+</p>
 
 ## Overview
 
