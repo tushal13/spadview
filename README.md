@@ -206,6 +206,38 @@ The app follows the MVC (Model-View-Controller) pattern:
 
 - The app maintains a clear and organized directory structure, following best practices.
 
+## Screenshots
+
+<img src="https://github.com/tushal13/spadview/assets/113960162/0103bd95-b36b-4df6-9a70-f093bef2c27b" alt="Image" width="200"> 
+
+<img src="https://github.com/tushal13/spadview/assets/113960162/ecc4cbf0-af48-4fc8-bbd5-1d937e56cd4b" alt="Image" width="200"> 
+
+<img src="https://github.com/tushal13/spadview/assets/113960162/f65d29de-a514-428a-9c23-e58e88140b12" alt="Image" width="200"> 
+
+<img src="https://github.com/tushal13/spadview/assets/113960162/d2ddb1fd-8541-4452-8145-6e72904a9479" alt="Image" width="200"> 
+
+<img src="https://github.com/tushal13/spadview/assets/113960162/5c7bd2b7-1f60-4b9f-be10-cbbaa3ae95e1" alt="Image" width="200"> 
+
+<img src="https://github.com/tushal13/spadview/assets/113960162/16d5acab-5335-48de-8cfc-92d0d05de434" alt="Image" width="200"> 
+
+<img src="https://github.com/tushal13/spadview/assets/113960162/9a2f2f39-3bce-4805-a992-29f6b0fab8d8" alt="Image" width="200"> 
+
+<img src="https://github.com/tushal13/spadview/assets/113960162/c2c58a50-fce5-4de5-b758-65a792aa41c0" alt="Image" width="200"> 
+
+<img src="https://github.com/tushal13/spadview/assets/113960162/f4bb4199-faca-4a96-9cad-d97972bc0cd0" alt="Image" width="200"> 
+
+<img src="https://github.com/tushal13/spadview/assets/113960162/c65aadb2-b8a3-4638-8564-9c7c891244ff" alt="Image" width="200"> 
+
+<img src="https://github.com/tushal13/spadview/assets/113960162/e76f0858-0d6f-49a1-aeba-0e79dab69562" alt="Image" width="200"> 
+
+<img src="https://github.com/tushal13/spadview/assets/113960162/56a4c3a9-02a6-4546-8ff0-d56f0f3cce96" alt="Image" width="200"> 
+
+<img src="https://github.com/tushal13/spadview/assets/113960162/ec14d56d-4248-4f3c-a797-0089990c30d1" alt="Image" width="200"> 
+
+<img src="https://github.com/tushal13/spadview/assets/113960162/325b5d75-d195-4636-a752-73b49a3c8db8" alt="Image" width="200"> 
+
+<img src="https://github.com/tushal13/spadview/assets/113960162/d08df1e8-e9e8-4986-ad57-e9b6330a9392" alt="Image" width="200"> 
+
 ## Getting Started
 
 1. **Clone the repository:**
