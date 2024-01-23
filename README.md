@@ -238,6 +238,8 @@ The app follows the MVC (Model-View-Controller) pattern:
 
 <img src="https://github.com/tushal13/spadview/assets/113960162/d08df1e8-e9e8-4986-ad57-e9b6330a9392" alt="Image" width="200"> 
 
+### [Video](https://drive.google.com/file/d/1RpXnE6GCQFlE8I-TD6sJicbWQS5rsGA2/view?usp=sharing)
+
 ## Getting Started
 
 1. **Clone the repository:**
